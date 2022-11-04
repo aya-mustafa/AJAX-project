@@ -1,0 +1,29 @@
+body
+{
+    font-family:'segoe ui light';
+    background-color: rgb(35, 141, 143);;
+    color:#fff ;
+}
+.nav-link 
+{
+    margin: 10px  15px 10px 0px;
+    color: #fff !important;
+    font-size: 18px;
+
+}
+.navbar-brand
+{
+    margin: 10px  15px 10px 0px;
+    color: #fff !important;
+    font-size: 22px;
+}
+hr
+{
+    border-top: 1px solid rgba(255, 255, 255,0.6);
+    margin-top: 0px;
+}
+.container img
+{
+    width:300px;
+    height: 300px;
+}
